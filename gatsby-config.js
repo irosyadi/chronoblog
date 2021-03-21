@@ -3,7 +3,7 @@ module.exports = {
     siteTitle: 'Imron Rosyadi',
     siteDescription: 'Associate Professor at Jenderal Soedirman University',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://irosyadi-lp2.netlify.app/projects',
+    siteUrl: 'https://irosyadi-lp.netlify.app',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
