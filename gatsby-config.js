@@ -1,33 +1,29 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Starter',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteTitle: 'Imron Rosyadi',
+    siteDescription: 'Associate Professor at Jenderal Soedirman University',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog.now.sh/',
+    siteUrl: 'https://irosyadi-lp2.netlify.app/projects',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
+    author: 'Imron Rosyadi', // for example - 'Ivan Ganev'
+    authorDescription: 'Jenderal Soedirman University', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
-    twitterCreator: '', // creator account on twitter
+    twitterCreator: 'irosyadi', // creator account on twitter
     social: [
       {
         icon: `at`,
-        url: `mailto:mymail@mail.com`,
+        url: `mailto:imron.rosyadi@unsoed.ac.id`,
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`,
+        url: `https://twitter.com/irosyadi`,
       },
       {
         icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`,
-      },
-      {
-        icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`,
+        url: `https://github.com/irosyadi`,
       },
     ],
   },
@@ -77,14 +73,14 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // replace "UA-XXXXXXXXX-X" with your own Tracking ID
-        trackingId: 'UA-XXXXXXXXX-X',
+        trackingId: 'UA-185820309-1',
       },
     },
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
         // replace "chronoblog-1" with your own disqus shortname
-        shortname: `chronoblog-1`,
+        shortname: ``,
       },
     },
   ],
