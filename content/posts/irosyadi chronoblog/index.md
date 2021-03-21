@@ -1,7 +1,7 @@
 ---
 title: irosyadi chronoblog
 cover: ./banner.png
-date: 2020-12-01
+date: 2021-01-01
 description: About this chronoblog
 tags: ['post']
 ---
